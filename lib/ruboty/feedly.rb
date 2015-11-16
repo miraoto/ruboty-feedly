@@ -1,4 +1,5 @@
-require "ruboty/feedly/version"
+require 'ruboty/handlers/feedly'
+require 'ruboty/feedly/version'
 
 module Ruboty
   module Feedly
